@@ -1,0 +1,2 @@
+# Smart-Agriculture
+Smart Farming is a farming management concept using modern technology to increase the quantity and quality of agricultural products. Farmers in the 21st century have access to GPS, soil scanning, data management, and Internet of Things technologies. By precisely measuring variations within a field and adapting the strategy accordingly is the great deal to the farmers some times they may over irrigate the crop.These can be overcome by implementing the smart agriculture.
